@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.khasim.springex.Greetingimpl"/>
+    <fullyQualifiedTypeName name="com.khasim.springex.Greetings"/>
+    <fullyQualifiedTypeName name="com.khasim.springex.GreetingsImpl"/>
+    <fullyQualifiedTypeName name="com.khasim.springex1.Onemore"/>
+    <fullyQualifiedTypeName name="com.khasim.springex1.OneMoreImpl"/>
+    <fullyQualifiedTypeName name="com.khasim.springex.Vehicle"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.khasim.springex.Cars"/>
+    <fullyQualifiedTypeName name="com.khasim.springex.Travelar"/>
+    <fullyQualifiedTypeName name="com.khasim.springex.Person"/>
+    <fullyQualifiedTypeName name="JavaConfig.Person"/>
+    <fullyQualifiedTypeName name="com.khasim.springex.Greeting"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContextException"/>
+    <fullyQualifiedTypeName name="com.khasim.springex.GreetingImpl"/>
+    <fullyQualifiedTypeName name="com.khasim.spring.Pharmacy"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="com.khasim.spring.Patient"/>
+    <fullyQualifiedTypeName name="com.khasim.spring.Doctor"/>
+    <fullyQualifiedTypeName name="com.khasim.spring.HomeloanService"/>
+    <fullyQualifiedTypeName name="com.khasim.spring.RealStateService"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+    <fullyQualifiedTypeName name="com.khasim.spring.JavaConfig"/>
+    <fullyQualifiedTypeName name="com.khasim.spring.Person"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+</qualifiedTypeNameHistroy>

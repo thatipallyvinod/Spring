@@ -1,0 +1,29 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd">
+   
+   
+   <bean id="car" class="com.khasim.springex.Cars">
+   
+   <property name="carType" value="AUDI"></property>  
+   <property name="maxSpeed" value="590"></property>
+   
+   </bean>
+   
+   <bean id="bus" class="com.khasim.springex.Bus">
+
+   <property name="busType" value="Volvo"></property>   
+   <property name="maxSpeed" value="432"></property>
+
+   </bean>
+   
+   <bean id="travelar" class="com.khasim.springex.Travelar">
+   
+   <property name="name" value="KhasimVali"/>
+   <property name="email" value="kv61460@gmail.com"/>
+   <property name="phno" value="6304110024"/>
+   <property name="vehicle" ref="bus"/>
+   
+   </bean>
+ </beans>
